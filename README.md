@@ -1,3 +1,8 @@
+### Learn Backend Development
+
 **Objective**: Showcasing work as a backend developer through a project portfolio is crucial for career advancement and skill development. This process, though less visible than front-end development, offers significant benefits including improved coding skills and increased job opportunities.
+
 **Approach**: The following list contains 1 backend projects, aimed at providing a comprehensive learning experience over the span of a year. Each project focuses on different aspects of backend development, ensuring a well-rounded skill set.
-**Instructions**: These projects are designed to be thorough, enabling you to develop robust backend systems and gain hands-on experience with various technologies and methodologies.
+
+#### Projects
+ 1. Weather APIs Wrapper
